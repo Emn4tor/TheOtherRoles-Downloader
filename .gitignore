@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+.venv
+dist
+build
+Logo.png
+py.spec
